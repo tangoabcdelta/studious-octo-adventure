@@ -28,7 +28,7 @@
     "source.fixAll.eslint": true
   },
   "explorer.confirmDelete": false,
-  "window.zoomLevel": -0.3,
+  "window.zoomLevel": 1,
   "editor.fontSize": 14,
   "[Log]": {
     "editor.fontSize": 11
@@ -77,5 +77,6 @@
   "peacock.color": "#f9e64f",
   "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
   "markdown-preview-enhanced.enableExtendedTableSyntax": true,
-  "markdown.preview.openMarkdownLinks": "inEditor"
+  "markdown.preview.openMarkdownLinks": "inEditor",
+  "typescript.tsdk": "node_modules/typescript/lib"
 }
